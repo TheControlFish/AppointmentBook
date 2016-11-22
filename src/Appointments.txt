@@ -1,0 +1,19 @@
+Onetime
+birthday
+2016
+12
+17
+1400
+Monthly
+fish
+15
+1300
+Onetime
+dentist
+2017
+1
+15
+1400
+Daily
+pet dogs
+1600
